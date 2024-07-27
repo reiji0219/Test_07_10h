@@ -25,7 +25,7 @@ public class Calc27 extends Item27
 				item.display();	
 		
 				item.execute();
-			S});
+			});
 		};
 	}
 
